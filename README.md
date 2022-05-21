@@ -8,12 +8,12 @@
 ## 1. Install XAMPP
 Unduh XAMPP dari https://www.apachefriends.org/download.html
 
-![img1!](assets/img/foto1.png)
+![img1!](/Lab7Web/asset/img/foto1.png)
 
 ## 2. Menjalankan web server
 Untuk menjalankan web server dari menu XAMPP Control
 
-![img1!](assets/img/foto2.png)
+![img1!](/Lab7Web/asset/img/foto2.png)
 
 • Uji coba apakah server sudah berkerja dengan baik
 http://127.0.0.1 atau http://localhost
@@ -31,49 +31,49 @@ Manajemen database: http://localhost/phpmyadmin
 ## 3. Memulai PHP
 Buat folder lab7_php_dasar pada root directory web server (\xampp\htdocs)
 
-![img2!](assets/img/foto3.png)
+![img2!]/Lab7Web/asset/img/foto3.png)
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/
 
-![img2!](assets/img/foto4.png)
+![img2!](/Lab7Web/asset/img/foto4.png)
 
 ## 4. PHP Dasar
 
 Kemudian untuk mengakses hasilnya melalui URL:
 http://localhost/lab7_php_dasar/php_dasar.php
 
-![img2!](assets/img/foto5.png)
+![img2!](/Lab7Web/asset/img/foto5.png)
 
 ### Variable PHP
 Menambahkan variable pada program.
 
-![img2!](assets/img/foto6.png)
+![img2!](/Lab7Web/asset/img/foto6.png)
 
 ### Predefine Variable `$_GET`
-![img2!](assets/img/foto7.png)
+![img2!](/Lab7Web/asset/img/foto7.png)
 
 ## 5. Membuat Form Input
 
-![img2!](assets/img/5/foto8.png)
+![img2!](/Lab7Web/asset/img/foto8.png)
 
 ### Operator
-![img2!](assets/img/foto9.png)
+![img2!](/Lab7Web/asset/img/foto9.png)
 
 ### Kondisi IF
-![img2!](assets/img/foto10.png)
+![img2!](/Lab7Web/asset/img/foto10.png)
 
 ### Kondisi Switch
-![img2!](assets/img/foto11.png)
+![img2!](/Lab7Web/asset/img/foto11.png)
 
 ### Perulangan for
-![img2!](assets/img/foto12.png)
+![img2!](/Lab7Web/asset/img/foto12.png)
 
 ### Perulangan while
-![img2!](assets/img/foto13.png)
+![img2!](/Lab7Web/asset/img/foto13.png)
 
 ### Perulangan do while
-![img2!](assets/img/foto14.png)
+![img2!](/Lab7Web/asset/img/foto14.png)
 
 ## Pertanyaan dan Tugas
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
