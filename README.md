@@ -84,9 +84,7 @@ berbeda-beda sesuai pilihan pekerjaan.
 ## Jawab
 ### Pertama saya akan membuat 1 module dan 3 package
 
-![img2!](assets/img/praktikum/1.png)
-
-terdapat folder core yang berisi file umur.php dan gaji.php
+terdapat folder tugas yang berisi file umur.php dan gaji.php
 
 dimana file `umur.php` untuk menampilkan output dengan menghitung
 umur berdasarkan inputan tanggal lahir, 
@@ -96,32 +94,27 @@ Lalu file `gaji.php` untuk menentukan gaji yang berbeda-beda sesuai pilihan peke
 dan file `index.php` sebagai halaman utama dalam program sederhana ini.
 
 ### Menentukan umur berdasarkan tanggal lahir
-![img2!](assets/img/praktikum/umr.png)
+![img2!](asset/tugas/img/foto1.png)
 
 Untuk menentukan umur berdasarkan tgl lahir, saya menggunakan ``date_diff()`` yang berfungsi untuk menghitung selisih waktu dengan format penulisan seperti diatas
 
 ### Menentukan gaji sesuai dengan pilihan pekerjaan
-![img2!](assets/img/praktikum/g.png)
+![img2!](asset/tugas/img/foto2.png)
 
 Untuk Menentukan gaji sesuai dengan pilihan pekerjaan, saya menggunakan pengkondisian ``if()`` dan untuk opsi pilihan html menggunakan type `select`. dimana jika saya memilih dokter maka gaji saya adalah 10jt /bulan, jika tidak maka saya akan memilih pilihan selanjutnya. dst sampai tidak ada pilihan yang tersisa
 
 ### Form Input
-![img2!](assets/img/praktikum/form.png)
+![img2!](asset/tugas/img/foto3.png)
 
 Untuk form saya menggunakan method `POST`, dan action ``$_SERVER["PHP_SELF"]`` yaitu variabel super global yang mengembalikan nama file dari skript yang sedang dieksekusi. Jadi ``$_SERVER["PHP_SELF"]`` mengirimkan data formulir yang dikirimkan ke halaman itu sendiri
 
 ### Form Output
-![img2!](assets/img/praktikum/o.png)
+![img2!](asset/tugas/img/foto4.png)
 
 didalam kolom tabel saya menyisipkan sintaks php ke dalam html supaya pas nanti di run akan muncul output yg sebelumnya sudah di input
 
 untuk kolom umur dan gaji saya memanggil file php terpisah, tujuan nya agar penulisan kode terlihat lebih rapi
 
 ## Output
-![img2!](assets/img/praktikum/14.png)
-
-![img2!](assets/img/praktikum/15.png)
-
-![img2!](assets/img/praktikum/16.png)
-
+![img2!](asset/tugas/img/foto5.png)
 
